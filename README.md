@@ -3,7 +3,9 @@ Weekly report
 
 注册一个属于你的 Github 账号
 
-Forck `NTPSC/Sophomore` 组织下的 `Report` 项目到你自己的仓库中
+Forck `NTPSC/Sophomore` 组织下的 `Report` 项目到你自己的仓库中 
+
+PS:什么是[Fork](https://www.zhihu.com/question/20431718)
 
 本地 `Clone`[也就是Copy] 刚刚 `Fork` 的仓库
 
