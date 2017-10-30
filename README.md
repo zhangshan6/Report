@@ -3,7 +3,7 @@ Weekly report
 
 注册一个属于你的 Github 账号
 
-Forck `NTPSC/Sophomore`组织下的`Report`到你自己的仓库中
+Forck `NTPSC/Sophomore` 组织下的`Report`到你自己的仓库中
 
 本地 `Clone` 刚刚 `Fork` 的仓库
 
